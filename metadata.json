@@ -1,0 +1,7 @@
+{
+  "name": "Smart QR Employee Lookup",
+  "description": "A client-side tool for instant employee lookup using QR codes and Excel data storage, featuring a Gen Z-inspired dark mode UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
